@@ -1,0 +1,37 @@
+h1{
+    color:blue;
+    text-align: center;
+}
+ul{
+    color: brown;
+    text-align: center;
+}
+ol{
+    color:green;
+    text-decoration: rgb(210, 221, 250);
+}
+table{
+    background-color: indianred;
+}
+body{
+      backface-visibility: hidden;
+      background-color: lawngreen;
+}
+.hello{
+    background-color: lightslategray;
+    backface-visibility: visible;
+    width: 300px;
+    height: 100px;
+    margin: 100px;
+    padding: 10px;
+    font-weight: 89;
+    border: 3px solid black ;
+    border-collapse: collapse;
+}
+table{
+    width: 40%;
+}
+th , td {
+    border: solid gray;
+    padding: 10px;
+}
